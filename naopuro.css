@@ -1,0 +1,42 @@
+
+
+.topimage{
+    background-image:url(topimage.jpg);
+    min-height:100vh;
+    width:100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-right:0px;
+    padding-left:0px;
+    margin-right:0px;
+    margin-left:0px;
+}
+
+
+.topimage_aboutus{
+    background-image:url(topimage.jpg);
+    width:100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-right:0px;
+    padding-left:0px;
+    margin-right:0px;
+    margin-left:0px;
+}
+
+/*
+.topimage::before{
+    position:fixed;
+    z-index: -1;
+    background-image:url(topimage.jpg);
+    min-height:100vh;
+    width:100%;
+    background-repeat: no-repeat;
+    padding-right:0px;
+    padding-left:0px;
+    background-position: center;
+}
